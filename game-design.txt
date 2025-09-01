@@ -1,0 +1,14 @@
+MathQuest: La Aventura del Conocimiento es un videojuego educativo diseñado para enseñar Matemáticas a estudiantes de primaria a través de una experiencia inmersiva y emocionante. 
+La historia se desarrolla en un reino mágico con castillos, aldeas y cuevas, un mundo lleno de misterios, desafíos y personajes fascinantes que guían a los jugadores en su aprendizaje. 
+Cada nivel del juego combina diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
+
+El protagonista de esta aventura es Lina, una niña curiosa, valiente y creativa. Lina es una aprendiz de Guardiana del Saber que ha sido elegida para una misión única: recuperar los cristales del conocimiento perdidos por el reino. 
+Con su ingenio y determinación, Lina deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de Matemáticas.
+
+El jugador podrá resolver acertijos y operaciones para desbloquear puertas; para avanzar deberá superar minijuegos de lógica y los desafíos incluirán puzzles, problemas cronometrados y retos cooperativos.
+
+Los estudiantes avanzarán mediante un sistema de puntos, medallas y niveles. Cada nivel representa un concepto educativo distinto (suma, resta, multiplicación, fracciones), y los jugadores reciben retroalimentación inmediata sobre su desempeño, lo que les permite identificar áreas de mejora y celebrar sus logros.
+
+Los jugadores aprenderán operaciones básicas mediante actividades interactivas; se reforzarán fracciones y razonamiento lógico a través de minijuegos guiados; y las evaluaciones se realizarán mediante cuestionarios breves con retroalimentación automática, lo que permite a profesores y estudiantes medir el progreso de manera efectiva.
+
+El juego se desarrollará usando Unity y tendrá soporte para PC y Android. Además, se implementarán características como guardado en la nube y un panel de control para profesores para garantizar una experiencia de juego fluida y atractiva.
